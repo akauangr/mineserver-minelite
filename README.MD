@@ -11,11 +11,11 @@ Com uma geração de mundo encantadora e convidativa.
 
 
 ### Como usar em um servidor
-Apesar crie uma nova instância com as configurações e subscreva os arquivos
+Apesar crie uma nova instância com as configurações e substituia os arquivos
 
 
 ### Como usar localmente
-Para utilizar localmente crie uma instancia no seu launcher e adicione a pasta world na pasta local saves, a estrutura deve ficar assim:
+Para utilizar localmente crie uma instancia no seu launcher e copie as pastas, modificando apenas o local da pasta ```world``` que deve ir na pasta ```saves```, a estrutura deve ficar assim:
 
 ```
 📁 [nome na instância]
@@ -25,6 +25,8 @@ Para utilizar localmente crie uma instancia no seu launcher e adicione a pasta w
  ╚ 📁 schematics
  ╚ 📁 saves
     ╚📁 world
+    ╚ ...
+ ╚ ...
 ```
 
 ### In-memorian
