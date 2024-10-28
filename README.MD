@@ -24,9 +24,9 @@ Para utilizar localmente crie uma instancia no seu launcher e copie as pastas ex
  ╚ 📁 mods
  ╚ 📁 schematics
  ╚ 📁 saves
-    ╚📁 world
-    ╚ ...
- ╚ ...
+    ╚ 📁 world
+    ╚ ...(demais mundos)
+ ╚ ...(demais arquivos)
 ```
 
 ### In-memorian
