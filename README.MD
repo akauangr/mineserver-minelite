@@ -11,11 +11,11 @@ Com uma geração de mundo encantadora e convidativa.
 
 
 ### Como usar em um servidor
-Apesar crie uma nova instância com as configurações e substituia os arquivos
+Apesar crie uma nova instância com as configurações, extraia o arquivo ```server.zip.001``` substituia os arquivos nop servidor
 
 
 ### Como usar localmente
-Para utilizar localmente crie uma instancia no seu launcher e copie as pastas, modificando apenas o local da pasta ```world``` que deve ir na pasta ```saves```, a estrutura deve ficar assim:
+Para utilizar localmente crie uma instancia no seu launcher e copie as pastas extraidas do arquivo ```server.zip.001```, modificando apenas o local da pasta ```world``` que deve ir na pasta ```saves```, a estrutura deve ficar assim:
 
 ```
 📁 [nome na instância]
