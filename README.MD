@@ -48,7 +48,15 @@ Players:
 * lucairo_
 * Luiamune
 * MikeVolg
-* rafael_marton
 * Raneria
 * Vazkii
 * Vitor_Royal
+
+NPCs:
+* Alfredo (Axolote/NewtonGR)
+* Goblin do fogo Jorge (b1eloso)
+* Matheus (Goblin/b1eloso)
+* Mago do fogo XD (b1eloso)
+* Marcelo (Trader/b1eloso)
+* Villager Profissões (b1eloso)
+* Cleiton (Hamster/johnguilho)
