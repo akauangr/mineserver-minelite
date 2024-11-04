@@ -9,6 +9,9 @@ Com uma geração de mundo encantadora e convidativa.
 * Minecraft: 1.20.1
 * Forge: 47.3.0
 
+### Download
+[Clique aqui para baixar o último backup](https://github.com/akauangr/mineserver-minelite/archive/refs/heads/main.zip)
+
 
 ### Como usar em um servidor
 Apesar crie uma nova instância com as configurações, extraia o arquivo ```server.zip.001``` substituia os arquivos nop servidor
